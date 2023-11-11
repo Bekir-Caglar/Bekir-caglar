@@ -2,13 +2,19 @@
 <h3 align="center">An Android developer trying to learn new things</h3>
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif">
 
-- 🔭 I’m currently working on **Mvvm**
 
-- 🌱 I’m currently learning **Android jetpack libraries**
+## 🖐🏻Who am I
+- I am studying at Karadeniz Technical University. | Computer Science<br>
+- I am a Android lover.<br>
+- I am a person who loves watch movies and go trekking.<br>
+
+## 🛠 What am I doing
+- 👩🏻‍💻 I create android applications by combining the new features I have learned..<br>
+- 🌱 I’m currently learning **Android jetpack libraries**.<br>
 
 - 📫 How to reach me **bekircofficial@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media Links -> :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bekir-%c3%a7a%c4%9flar-2a643b280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bekir-%c3%a7a%c4%9flar-2a643b280/" height="30" width="40" /></a>
 <a href="https://medium.com/@bekircofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bekircofficial" height="30" width="40" /></a>
