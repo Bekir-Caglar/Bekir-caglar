@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bekir</h1>
 <h3 align="center">An Android developer trying to learn new things</h3>
-<img align="top" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif">
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif">
 
 - 🔭 I’m currently working on **Mvvm**
 
