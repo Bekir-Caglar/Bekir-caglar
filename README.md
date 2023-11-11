@@ -4,9 +4,9 @@
 
 
 ## 🖐🏻Who am I
-- I am studying at Karadeniz Technical University. | Computer Science<br>
-- I am a Android lover.<br>
-- I am a person who loves watch movies and go trekking.<br>
+- 📖 I am studying at Karadeniz Technical University. | Computer Science<br>
+- 🤖 I am a Android lover.<br>
+- 🌲 📽 I am a person who loves watch movies and go trekking.<br>
 
 ## 🛠 What am I doing
 - 👩🏻‍💻 I create android applications by combining the new features I have learned..<br>
