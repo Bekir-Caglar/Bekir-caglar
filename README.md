@@ -16,7 +16,7 @@
 
 <h3 align="left">Social Media Links -> :</h3>
 <p align="left">
-<a href="linkedin.com/in/bekir-çağlar-2a643b280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bekir-%c3%a7a%c4%9flar-2a643b280/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bekir-%C3%A7a%C4%9Flar-2a643b280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bekir-%c3%a7a%c4%9flar-2a643b280/" height="30" width="40" /></a>
 <a href="https://medium.com/@bekircofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bekircofficial" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@bekircofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bekircofficial" height="30" width="40" /></a>
 </p>
