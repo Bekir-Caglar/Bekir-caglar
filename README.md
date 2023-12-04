@@ -10,7 +10,7 @@
 
 ## 🛠 What am I doing
 - 👩🏻‍💻 I create android applications by combining the new features I have learned..<br>
-- 🌱 I’m currently learning **Android jetpack libraries**.<br>
+- 🌱 I’m currently learning **Flutter**.<br>
 
 - 📫 How to reach me **bekircofficial@gmail.com**
 
