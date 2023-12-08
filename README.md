@@ -6,10 +6,10 @@
 ## 🖐🏻Who am I
 - 📖 I am studying at Karadeniz Technical University. | Computer Science<br>
 - 🤖 I am a Android lover.<br>
-- 🌲 📽 I am a person who loves watch movies and go trekking.<br>
+- 🕹🎬🚴🏻‍♀️ I enjoy playing video games, watching films, and riding a bicycle by the seaside.<br>
 
 ## 🛠 What am I doing
-- 👩🏻‍💻 I create android applications by combining the new features I have learned..<br>
+- 👩🏻‍💻 I create mobile applications by combining the new features I have learned..<br>
 - 🌱 I’m currently learning **Flutter**.<br>
 
 - 📫 How to reach me **bekircofficial@gmail.com**
