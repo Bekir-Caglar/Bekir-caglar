@@ -26,4 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekir-caglar&show_icons=true&locale=en&layout=compact" alt="bekir-caglar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekir-caglar&show_icons=true&locale=en" alt="bekir-caglar" /></p>
