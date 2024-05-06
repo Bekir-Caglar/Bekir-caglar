@@ -5,11 +5,11 @@
 
 ## 🖐🏻Who am I
 - 📖 I am studying at Karadeniz Technical University. | Computer Science<br>
-- 🕹🎬🚴🏻‍♀️ I enjoy playing video games, watching films, and riding a bicycle by the seaside.<br>
+- 🕹🎬🚴🏻‍♀️ I enjoy playing video games, watching films, and riding a bicycle.<br>
 
 ## 🛠 What am I doing
+-  I'm learning Kotlin right now
 - 👩🏻‍💻 I create mobile applications by combining the new features I have learned..<br>
-- 🌱 I’m currently learning **Jetpack Libraries**.<br>
 
 - 📫 How to reach me **bekircofficial@gmail.com**
 
