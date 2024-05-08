@@ -11,7 +11,7 @@
 -  I'm learning Kotlin right now
 - 👩🏻‍💻 I create mobile applications by combining the new features I have learned..<br>
 
-- 📫 How to reach me **bekircofficial@gmail.com**
+- 📫 You can reach me **bekircofficial@gmail.com**
 
 <h3 align="left">Social Media Links -> :</h3>
 <p align="left">
