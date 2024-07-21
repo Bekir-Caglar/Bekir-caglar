@@ -8,7 +8,7 @@
 - 🕹🎬🚴🏻‍♀️ I enjoy playing video games, watching films, and riding a bicycle.<br>
 
 ## 🛠 What am I doing
--  I'm learning Kotlin right now
+-  I'm learning Android basics right now
 - 👩🏻‍💻 I create mobile applications by combining the new features I have learned..<br>
 
 - 📫 You can reach me **bekircofficial@gmail.com**
