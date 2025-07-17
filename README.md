@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif">
 
 ## 🧑‍💻 About Me
-- 🎓 I’m a 2nd-year Computer Science student at Karadeniz Technical University.
+- 🎓 I’m a 3nd-year Computer Science student at Karadeniz Technical University.
 - 📱 I’m passionate about Android development and love turning ideas into mobile apps.
 - 🕹️🎬🚴🏻‍♀️ In my free time, I enjoy playing games, watching movies, and cycling.
 
