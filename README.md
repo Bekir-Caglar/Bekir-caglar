@@ -9,7 +9,7 @@
 - 🕹️🎬🚴🏻‍♀️ In my free time, I enjoy playing games, watching movies, and cycling.
 
 ## 🚧 What I'm Working On
-- 🛠 Currently learning Jetpack Compose and core Android development concepts.
+- 🛠 Currently develop a compose multiplatform project.
 - 📦 Developing **CMP** and **KMP** projects to enhance my skills and portfolio.
 
 ## 📫 Contact Me
