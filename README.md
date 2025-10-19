@@ -6,7 +6,6 @@
 ## 🧑‍💻 About Me
 - 🎓 I’m a 3nd-year Computer Science student at Karadeniz Technical University.
 - 📱 I’m passionate about Android development and love turning ideas into mobile apps.
-- 🕹️🎬🚴🏻‍♀️ In my free time, I enjoy playing games, watching movies, and cycling.
 
 ## 🚧 What I'm Working On
 - 🛠 Currently develop a compose multiplatform project.
