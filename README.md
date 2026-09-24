@@ -22,8 +22,7 @@ Uygulama geliştirmeden mağaza yayınına uzanan süreçlerde çalışıyorum. 
 
 | Proje | Odak |
 | :--- | :--- |
-| **[Yazar-Eser Testleri](https://github.com/Bekir-Caglar/Yazar-Eser)** | YKS hazırlığı için testler, eser özetleri ve ilerleme takibi. Kotlin, MVVM ve Firebase. [Google Play ↗](https://play.google.com/store/apps/details?id=com.bekircaglar.yksmaster) |
-| **[BluChat](https://github.com/Bekir-Caglar/BluChat)** | Gerçek zamanlı mesajlaşma, grup sohbetleri ve medya paylaşımı. Jetpack Compose, Firebase ve Hilt. |
+| **[AsistCell](https://github.com/Bekir-Caglar/asistcell)** | Turkcell CodeNight 2026 için geliştirilen yapay zekâ destekli müşteri hizmetleri platformu. Talep sınıflandırma, duygu analizi ve temsilci eşleştirme; FastAPI, NestJS, React ve Docker ile mikroservis mimarisi. |
 | **[BluChat KMP](https://github.com/Bekir-Caglar/BluChatKmp)** | Android ve iOS hedefleyen Kotlin Multiplatform projesi; ortak kod ve Compose Multiplatform çalışmaları. |
 
 ## Deneyim
