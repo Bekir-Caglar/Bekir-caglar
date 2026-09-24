@@ -6,10 +6,14 @@
 <p align="center">Kotlin ile fikirlerden kullanıcıya ulaşan mobil uygulamalar.</p>
 
 <p align="center">
-  <a href="mailto:bekircofficial@gmail.com">E-posta</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/bekir-%C3%A7a%C4%9Flar-2a643b280/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://medium.com/@bekircofficial">Medium</a> &nbsp;·&nbsp;
-  <a href="https://www.hackerrank.com/profile/bekircofficial">HackerRank</a>
+  <a href="https://drive.google.com/file/d/1Ie4eGOr9V2ACNAsoMduK3pNUH_tZFwfn/view?usp=sharing"><img src="https://img.shields.io/badge/CV'mi%20G%C3%B6r%C3%BCnt%C3%BCle-CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV'mi görüntüle" /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:bekircofficial@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
+  <a href="https://www.linkedin.com/in/bekir-%C3%A7a%C4%9Flar-2a643b280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@bekircofficial"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.hackerrank.com/profile/bekircofficial"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 ## Hakkımda
@@ -37,12 +41,11 @@ Uygulama geliştirmeden mağaza yayınına uzanan süreçlerde çalışıyorum. 
 
 ## Kullandığım teknolojiler
 
-| Alan | Teknolojiler |
-| :--- | :--- |
-| Android | Kotlin · Jetpack Compose · XML · Coroutines · Flow |
-| Mimari ve veri | MVVM · Room · Retrofit · Hilt · Koin · Firebase |
-| Multiplatform | Kotlin Multiplatform · Compose Multiplatform |
-| Backend ve araçlar | Java · Spring Boot · PostgreSQL · Redis · Docker · Git |
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,docker,postgres,firebase,git,swift,flutter&perline=10" alt="Kotlin, Android Studio, Java, Spring, Docker, PostgreSQL, Firebase, Git, Swift ve Flutter" /></a>
+</p>
+
+<p align="center"><strong>Jetpack Compose · Kotlin Multiplatform · Coroutines &amp; Flow · Room · Retrofit · Hilt · Koin · Redis · .NET</strong></p>
 
 ## Yarışmalar ve topluluk
 
