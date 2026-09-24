@@ -6,7 +6,7 @@
 <p align="center">Kotlin ile fikirlerden kullanıcıya ulaşan mobil uygulamalar.</p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Ie4eGOr9V2ACNAsoMduK3pNUH_tZFwfn/view?usp=sharing"><img src="https://img.shields.io/badge/CV%27mi%20G%C3%B6r%C3%BCnt%C3%BCle?color=4285F4&style=for-the-badge&logo=googledrive&logoColor=white" alt="CV'mi görüntüle" /></a>
+  <a href="https://drive.google.com/file/d/1Ie4eGOr9V2ACNAsoMduK3pNUH_tZFwfn/view?usp=sharing"><img src="https://img.shields.io/badge/CV%27mi-G%C3%B6r%C3%BCnt%C3%BCle-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV'mi görüntüle" /></a>
 </p>
 
 <p align="center">
