@@ -52,6 +52,10 @@ Uygulama geliştirmeden mağaza yayınına uzanan süreçlerde çalışıyorum. 
 
 ## Depolarımda kullanılan diller
 
-**Kotlin %41,6** · **Python %28,0** · **TypeScript %14,0** · **HTML %7,2** · **Dart %5,0** · Diğer %4,2
+<p align="left">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bekir-Caglar&amp;layout=compact&amp;locale=tr&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=52957e&amp;text_color=7d8590" alt="GitHub depolarımda en çok kullanılan programlama dilleri" />
+  </a>
+</p>
 
-<sub>24 Eylül 2026 · GitHub API verisi · Fork olmayan 22 herkese açık deponun kod baytlarına göre dağılımı. Yetkinlik seviyesi veya kullanım süresi ölçümü değildir.</sub>
+<sub>Herkese açık depolardan otomatik oluşturulur; güncellemeler servisin önbelleğine bağlı olarak gecikebilir.</sub>
